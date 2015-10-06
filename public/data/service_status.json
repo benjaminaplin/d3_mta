@@ -1,0 +1,276 @@
+{
+    "service": {
+        "responsecode": "0",
+        "timestamp": "10/5/2015 8:32:00 PM",
+        "subway": {
+            "line": [
+                {
+                    "name": "123",
+                    "status": "GOOD SERVICE"
+                },
+                {
+                    "name": "456",
+                    "status": "SERVICE CHANGE",
+                    "text": "ServiceChange-Posted: &nbsp;10/05/2015 Duetosignalproblemsat<STRONG>MosholuPkwy</STRONG>someÂnorthbound[4]trainsarerunningexpressfrom<STRONG>KingsbridgeRd</STRONG>to<STRONG>Woodlawn</STRONG>.</P><P>Allowadditionaltraveltime.</P><br/><br/>",
+                    "Date": "10/05/2015",
+                    "Time": "8: 15PM"
+                },
+                {
+                    "name": "7",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "ACE",
+                    "status": "SERVICECHANGE",
+                    "text": "service changes 10/05/2015&nbsp;8: 15PM</span><br/><br/><P>Duetosignalproblemsat<STRONG>125St</STRONG>",
+                    "runningwithdelays": [
+                        "A",
+                        "B",
+                        "C",
+                        "D"
+                    ]
+                },
+                {
+                    "name": "BDFM",
+                    "status": "SERVICECHANGE",
+                    "text": "ServiceChange Posted: 10/05/2015 Duetosignalproblemsat ElmhurstAv",
+                    "thefollowingservicechangesareineffect": [
+                        "M",
+                        "R",
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E"
+                    ]
+                },
+                {
+                    "name": "G",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "JZ",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "L",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "NQR",
+                    "status": "SERVICECHANGE",
+                    "text": "ServiceChange Posted:  10/05/2015 8: 16PM Duetosignalproblemsat ElmhurstAv",
+                    "thefollowingservicechangesareineffect": [
+                        "M",
+                        "R",
+                        "E",
+                        "F",
+                        "M"
+                    ]
+                },
+                {
+                    "name": "S",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "SIR",
+                    "status": "GOODSERVICE"
+                }
+            ]
+        },
+        "bus": {
+            "line": [
+                {
+                    "name": "B1-B84",
+                    "status": "SERVICECHANGE",
+                    "text": "Service Change Posted: 10/05/2015&tonOceanAv<br>LeftonShoreBlvdthenregularroute<br><br><b>Southbound<br></b>ViaShoreBlvd<br>LeftontoShoreBlvd<br>RightonOceanAv<br>LeftonOrientalBlvdthenregularroute</div><br><b><br></div></b><br/><br/><br/>",
+                    "Date": "10/05/2015",
+                    "Time": "8: 16PM"
+                },
+                {
+                    "name": "B100-B103",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "BM1-BM5",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "BX1-BX55",
+                    "status": "PLANNEDWORK",
+                    "text": "planned work Bx7-NorthboundbusesmayexperiencedelaysonBroadwayfrom174Stto179St",
+                    "Date": "10/05/2015",
+                    "Time": "8: 23PM"
+                },
+                {
+                    "name": "BXM1-BXM18",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "M1-M116",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Q1-Q113",
+                    "status": "SERVICECHANGE",
+                    "text": "Service Change Posted: 10/05/2015"
+                },
+                {
+                    "name": "QM1-QM25",
+                    "status": "SERVICECHANGE",
+                    "text": "Service Change",
+                    "Date": "10/05/2015",
+                    "Time": "8: 18PM"
+                },
+                {
+                    "name": "S40-S98",
+                    "status": "SERVICECHANGE",
+                    "text": "Service Change",
+                    "Date": "10/05/2015",
+                    "Time": "8: 26PM"
+                },
+                {
+                    "name": "x1-x68",
+                    "status": "SERVICECHANGE",
+                    "text": "service change",
+                    "Date": "10/05/2015",
+                    "Time": "8: 17PM"
+                }
+            ]
+        },
+        "BT": {
+            "line": [
+                {
+                    "name": "Bronx-Whitestone",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "CrossBay",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "HenryHudson",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "HughL.Carey",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "MarineParkway",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "QueensMidtown",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "RobertF.Kennedy",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "ThrogsNeck",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Verrazano-Narrows",
+                    "status": "SERVICECHANGE",
+                    "text": "service change",
+                    "Date": "10/01/2015",
+                    "Time": "3: 21PM"
+                }
+            ]
+        },
+        "LIRR": {
+            "line": [
+                {
+                    "name": "Babylon",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "CityTerminalZone",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "FarRockaway",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Hempstead",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "LongBeach",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Montauk",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "OysterBay",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "PortJefferson",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "PortWashington",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Ronkonkoma",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "WestHempstead",
+                    "status": "GOODSERVICE"
+                }
+            ]
+        },
+        "MetroNorth": {
+            "line": [
+                {
+                    "name": "Hudson",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Harlem",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Wassaic",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "NewHaven",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "NewCanaan",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Danbury",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "Waterbury",
+                    "status": "SERVICECHANGE",
+                    "text": "service change",
+                    "Date": "06/04/2015",
+                    "Time": "11: 57AM"
+                },
+                {
+                    "name": "PascackValley",
+                    "status": "GOODSERVICE"
+                },
+                {
+                    "name": "PortJervis",
+                    "status": "GOODSERVICE"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,63 @@
+body {
+  background:#FFFFFF;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  padding: 5px;
+  margin: 5px;
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  padding: 5px;
+  margin: 5px;
+  color:#042029;
+}
+
+h4 {
+  font-family: 'Lato', sans-serif;  
+  color: #042029;
+  padding: 5px;
+  margin: 5px;
+  font-size: 12px;
+}
+
+div.header{
+  margin: 0 auto;
+}
+
+div.container{
+  margin: 23px 0px 0px 20%;
+}
+
+div.chart{
+  position:relative;
+}
+
+div.svg{
+    position:relative;
+    border-radius: 15px
+}
+
+div#chart2 {
+  width: 700px;
+}
+div.tooltip {
+  color: black;
+  position: absolute;
+  background-color:rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+svg {
+  border-radius: 7px;
+}
+
+select#candidate-select {
+  margin-bottom: 5px;
+}
+
+text {
+  font-family: 'Lato', sans-serif;
+}

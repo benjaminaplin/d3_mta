@@ -1,0 +1,28 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminaplin/final_project.git"
+  },
+  "author": "Benjamin Aplin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminaplin/final_project/issues"
+  },
+  "homepage": "https://github.com/benjaminaplin/final_project#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "path": "^0.12.7",
+    "request": "^2.62.0",
+    "views": "^1.0.2"
+  },
+  "description": ""
+}
